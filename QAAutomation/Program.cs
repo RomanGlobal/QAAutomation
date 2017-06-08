@@ -38,7 +38,7 @@ namespace ConsoleApplication11
 
             foreach (var f in figures)
                 Console.WriteLine(f.Perimeter());
-
+            Console.ReadKey();
 
         }
 

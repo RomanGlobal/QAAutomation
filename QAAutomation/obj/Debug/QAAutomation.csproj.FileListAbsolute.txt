@@ -1,0 +1,8 @@
+D:\QAAutomation\QAAutomation\QAAutomation\QAAutomation\obj\Debug\QAAutomation.csprojResolveAssemblyReference.cache
+D:\QAAutomation\QAAutomation\QAAutomation\bin\Debug\QAAutomation.pdb
+D:\QAAutomation\QAAutomation\QAAutomation\bin\Debug\Figures.dll
+D:\QAAutomation\QAAutomation\QAAutomation\bin\Debug\Figures.pdb
+D:\QAAutomation\QAAutomation\QAAutomation\obj\Debug\QAAutomation.csprojResolveAssemblyReference.cache
+D:\QAAutomation\QAAutomation\QAAutomation\obj\Debug\QAAutomation.pdb
+D:\QAAutomation\QAAutomation\QAAutomation\bin\Debug\QAAutomation.exe
+D:\QAAutomation\QAAutomation\QAAutomation\obj\Debug\QAAutomation.exe
